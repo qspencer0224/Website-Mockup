@@ -1,0 +1,31 @@
+.container{
+    
+}
+
+.googleLogo{
+    
+    height: 20vh;
+    margin-bottom: 25%;
+    margin-top: 7%;
+    margin-left: 14%;
+    
+}
+.searchbar{
+    border: solid lightgray;
+    height: 100%;
+    width: 75%;
+    margin-bottom: 100%;
+    margin-left: 8%;
+    border-radius: 25%;
+
+}
+.wordsRight{
+    text-align: right;
+}
+.containerbot{
+    border: solid blue;
+}
+.bottom{
+    border: solid black;
+}
+
